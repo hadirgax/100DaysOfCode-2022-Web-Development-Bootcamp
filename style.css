@@ -21,4 +21,6 @@ a:hover {
 
 #todays-challenge {
   color: rgb(170, 96, 83);
+  font-weight: bold;
+  font-size: 52px;
 }
