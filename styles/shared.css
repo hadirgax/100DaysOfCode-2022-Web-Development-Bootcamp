@@ -1,16 +1,16 @@
 body {
-  text-align: center;
   background-color: rgb(233, 215, 207);
+  text-align: center;
+  color: rgb(83, 75, 75);
 }
 
 h1 {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: rgb(83, 75, 75);
 }
 
 p {
-  font-family: "Fira Sans", sans-serif;
-  color: rgb(170, 96, 83);
+  font-family: 'Fira Sans', sans-serif;
 }
 
 a {
