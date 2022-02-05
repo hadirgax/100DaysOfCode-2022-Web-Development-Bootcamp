@@ -5,11 +5,29 @@ body {
 img {
   width: 200px;
   height: 200px;
+  border: 3px solid rgb(0, 0, 0);
   border-radius: 100px;
+  margin-bottom: -100px;
+}
+
+main {
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 8px;
+  margin: 0 200px;
+  background-color: rgba(225, 108, 81, 1);
+}
+
+h1 {
+  padding-top: 100px;
+  color: rgb(0, 0, 0);
+}
+
+h1 span {
+  color: rgba(75, 4, 0, 1);
 }
 
 #todays-challenge {
-  color: rgb(170, 96, 83);
+  color: rgb(69, 52, 53);
   font-weight: bold;
   font-size: 52px;
 }
