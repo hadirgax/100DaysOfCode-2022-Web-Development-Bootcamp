@@ -3,6 +3,7 @@
   background-image: url('/images/places/ocean.jpg');
   background-position: center;
   background-size: cover;
+  top: 0;
 }
 
 #hero-content {
