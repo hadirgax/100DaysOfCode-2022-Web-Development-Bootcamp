@@ -54,9 +54,16 @@
   width: 90%;
   margin: 0 auto;
   margin-bottom: 40px;
-  justify-content: space-around;
+}
+
+.destination {
+  margin: 0 20px;
 }
 
 .destination img {
   height: 200px;
+  width: 100%;
+  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  border-radius: 10px;
+  object-fit: cover;
 }
