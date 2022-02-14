@@ -49,6 +49,10 @@
   background-color: rgb(255, 238, 0);
 }
 
+#highlights {
+  padding: 24px;
+}
+
 #highlights h2 {
   text-transform: uppercase;
   text-align: center;
