@@ -77,9 +77,12 @@ main h1 {
 }
 
 .food-item-content {
-  padding: 16px;
+  /* padding: 16px; */
+  /* padding: 10%; relative to parent box size*/
+  /* padding: 0.1em; relative to self/parent font size */
+  padding: 0.1rem; /* relative to self/parent font size */
   text-align: center;
-  font-size: 2em;
+  font-size: 200%;
 }
 
 h2 {
