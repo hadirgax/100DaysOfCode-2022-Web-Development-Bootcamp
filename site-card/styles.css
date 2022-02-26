@@ -1,5 +1,7 @@
 html {
-  background-color: rgb(236, 236, 236);
+  --color-grey-100: rgb(236, 236, 236);
+
+  background-color: var(--color-grey-100);
   font-family: 'Krub', sans-serif;
   font-weight: 400;
 }
