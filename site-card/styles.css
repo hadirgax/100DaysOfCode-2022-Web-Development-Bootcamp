@@ -20,11 +20,13 @@ html {
   width: 350px;
   margin: 50px auto;
   box-shadow: 3px 3px 10px rgb(201, 200, 200);
+  transition: transform 2s ease-out 0.5s;
+  /* transition: background-color 2s ease-out 1.5s; */
 }
 
 .card-container:hover {
-  transform: scale(1.1);
-  transform: rotate(20deg);
+  transform: scale(1.1) rotate(20deg);
+  /* background-color: yellow; */
 }
 
 h1 {
@@ -95,6 +97,7 @@ h1 {
   border: 2px solid rgb(224, 224, 224);
   font-size: var(--size-1);
   font-weight: 600;
+  transition: background-color 2s ease-out 1s;
 }
 
 .button:hover {
