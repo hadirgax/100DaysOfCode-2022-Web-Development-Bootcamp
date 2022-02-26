@@ -22,6 +22,11 @@ html {
   box-shadow: 3px 3px 10px rgb(201, 200, 200);
 }
 
+.card-container:hover {
+  transform: scale(1.1);
+  transform: rotate(20deg);
+}
+
 h1 {
   color: var(--color-gray-600);
   text-align: left;
